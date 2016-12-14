@@ -7,6 +7,7 @@ Collaborator: Alana Lidawer, Zoe Klawans
    ```
    java -classpath src:lib/parserlib.jar abc.player.Main [file path]
    ```
+   
    e.g. 
    ```
    java -classpath src:lib/parserlib.jar abc.player.Main sample_abc/fur_elise.abc
